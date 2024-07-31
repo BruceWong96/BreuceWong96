@@ -4,7 +4,7 @@ I'm Bruce Wong, a **Big Data Architect** with a degree in Software Engineering. 
 
 ## 🛠️ Professional Experience
 - **Data Platform Specialist**: Designing and implementing robust data architectures for various use cases.
-- **Apache Kyuubi Contributor**: Contributing to the development of this powerful distributed SQL query engine.
+- **Apache Kyuubi Contributor**: [Apache Kyuubi](https://kyuubi.readthedocs.io/en/master/index.html) is a distributed and multi-tenant gateway to provide serverless SQL on Data Warehouses and Lakehouses.
 
 
 ## 📘 Personal Blog
