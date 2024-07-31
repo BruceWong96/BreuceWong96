@@ -16,7 +16,7 @@ I'm passionate about open-source projects and enjoy the freedom to exchange idea
 ## 🎾 Hobbies
 When I'm not working, you can find me enjoying:
 - Badminton 🏸
-- kayaking 🚣‍♂️
+- Kayaking 🚣‍♂️
 - Football ⚽ (Manchester City fan)
 
 Let's connect and collaborate! 💬
