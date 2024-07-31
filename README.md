@@ -1,5 +1,3 @@
-# BruceWong96
-
 # Hi there! 👋
 
 I'm Bruce Wong, a **Big Data Architect** with a degree in Software Engineering. Currently, I work on data platform-related projects, leveraging my expertise to create scalable and efficient solutions.
