@@ -14,7 +14,7 @@ I love to share my knowledge and experiences on my [personal blog](https://blog.
 ## 🌟 Passion for Open Source
 I'm passionate about open-source projects and enjoy the freedom to exchange ideas and technologies with the community.
 
-## 🎾 Hobbies
+## 🏸 Hobbies
 When I'm not working, you can find me enjoying:
 - Badminton 🏸
 - Kayaking 🚣‍♂️
